@@ -21,7 +21,10 @@ public class Pokemon {
 
 
     // TODO: Create a constructor that takes all attributes as parameters
-    
+    public static void pokemonCalculator(String name, String type, int HP, int attack, int defense, int speed)
+    {
+        
+    }
 
     // TODO: Add getters for attributes you need
 
