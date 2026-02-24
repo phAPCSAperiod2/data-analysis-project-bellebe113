@@ -66,11 +66,11 @@ UML_Diagram.png (or UML_Diagram.pdf)
 
 ## 🧩 Step 1 — Choose Your Dataset
 
-**Dataset Name:**  
-**Source / Link:**  
+**Dataset Name: Pokemon**  
+**Source / Link: https://runestone.academy/ns/books/published/csawesome2/external/_static/datasets/pokemon.csv**  
 
 **What this dataset contains (2–3 sentences):**  
-____________________________________________________________________  
+This data set contains information about 151 different Pokemon including their types and amounts of HP, Attack, Defense, and Speed ____________________________________________________________________  
 ____________________________________________________________________  
 
 ---
@@ -79,7 +79,7 @@ ____________________________________________________________________
 
 Your guiding question should be something you can answer using your dataset.
 
-**My guiding question:**  
+**My guiding question: Which Pokemon is the strongest out of them all? **  
 ____________________________________________________________________  
 ____________________________________________________________________  
 
